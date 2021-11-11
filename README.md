@@ -16,7 +16,7 @@ I specialize in JavaScript/Typescript with ES6(EcmaScript) Rules and have profes
 
 I also have experience working with Python Flask, React Native, AngularJs, CI/CD Jenkins, Docker, Apache Kafka, Alibaba Cloud, and Amazon Web Service.
 
-Beside's programming, I enjoy to meet and traveling to nature with my friend xD.
+Beside's programming, I enjoy to meet and travel to nature with my friend xD.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
