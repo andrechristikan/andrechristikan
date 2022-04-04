@@ -14,33 +14,60 @@ const andre = {
     code: [Typescript, Javascript, Python, Dart],
     framework: [ NestJs, ExpressJs, Jest, Flask, Flutter],
     askMeAbout: [
-      "ci/cd", "automation", 
-      "test", "nestjs", "nodejs"
+        "ci/cd", "automation", 
+        "test", "nestjs", "nodejs"
     ],
     technologies: {
         backEnd: {
-            flutter: [
-              'widget'
-            ],
             ts: [
-              "node", "expressjs"
-              "nestjs", "jest",
-              "jwt", "mongoose",
+                "node", "expressjs"
+                "nestjs", "jest",
+                "jwt", "mongoose",
             ],
             db: [
-              "mongodb",
-              "postgresql", "mysql"
-            ],
-            server: [
-              "nginx", "kafka",
+                "mongodb",
+                "postgresql", "mysql"
             ],
             test: [
-              "unit_test", "e2e_test"
+                "unit_test", "e2e_test"
             ],
+        },
+        devOps: {
             automation: [
-              "jenkins", "github_action",
+                "jenkins", "github_action",
+                "docker"
+            ],
+            cloud: [
+                "aws", "alibaba_cloud"
+            ],
+            server: [
+                "nginx", "kafka",
+            ],
+        },
+        mobile: {
+            flutter: [
+                'widget'
+            ],
+        },
+        integration: {
+            email: [
+                "sendgrid", 
+            ],
+            payment: [
+                "xendit", "instamoney",
+                "nicepay"
+            ],
+            bank: [
+                "bca", "sinar_mas"
             ]
-        }        
+            pushNotification: [
+                "onesignal", "firebase"
+            ],
+            p2pRegulation: [
+                "fdc", "pusdafil", 
+                "pefindo", "izidata"
+            ]
+        }
     }
 };
 ```
