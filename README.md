@@ -9,7 +9,6 @@
 ```typescript
 const andre = {
     fullName: 'Andre Christi Kan',
-    job: "Backend Engineer",
     pronouns: "he" | "him",
     code: [Typescript, Javascript, Python, Dart],
     framework: [ NestJs, ExpressJs, Jest, Flask, Flutter],
@@ -59,7 +58,7 @@ const andre = {
             ],
             bank: [
                 "bca", "sinar_mas"
-            ]
+            ],
             pushNotification: [
                 "onesignal", "firebase"
             ],
