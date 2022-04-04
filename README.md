@@ -1,49 +1,56 @@
-**Connect with me** 
-<br />
+## Hi there 👋 <br> Welcome to my GitHub! 
 
-<span>
-  <a href="https://www.linkedin.com/in/andrechristikan/">
-    <img alt="Andreck LinkdeIn" height="20" src="./icons/linkedin.png" />
-  </a>
-  <a href="https://www.instagram.com/___ac.k/">
-    <img alt="Andreck Instagram" height="20" src="./icons/instagram.png" />
-  </a>
-</span>
+[![Github][github-shield]][author-github]
+[![LinkedIn][linkedin-shield]][author-linkedin]
+[![Instagram][instagram-shield]][author-instagram]
 
-<br />
+### aboutMe.js
 
+```typescript
+const andre = {
+    fullName: 'Andre Christi Kan',
+    job: "Backend Engineer",
+    pronouns: "he" | "him",
+    code: [Typescript, Javascript, Python, Dart],
+    framework: [ NestJs, ExpressJs, Jest, Flask, Flutter],
+    askMeAbout: [
+      "ci/cd", "automation", 
+      "test", "nestjs", "nodejs"
+    ],
+    technologies: {
+        backEnd: {
+            flutter: [
+              'widget'
+            ],
+            ts: [
+              "node", "expressjs"
+              "nestjs", "jest",
+              "jwt", "mongoose",
+            ],
+            db: [
+              "mongodb",
+              "postgresql", "mysql"
+            ],
+            server: [
+              "nginx", "kafka",
+            ],
+            test: [
+              "unit_test", "e2e_test"
+            ],
+            automation: [
+              "jenkins", "github_action",
+            ]
+        }        
+    }
+};
+```
 
-**Languages and Tools:**  
+[github-shield]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[instagram-shield]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 
-<span>
-  <img height="20" src="./icons/typescript.png">
-  <img height="20" src="./icons/javascript.png">
-  <img height="20" src="./icons/python.png">
-  <img height="20" src="./icons/nestjs.png">
-  <img height="20" src="./icons/nodejs.png">
-  <img height="20" src="./icons/react.png">
-  <img height="20" src="./icons/flask.png">
-  <br />
-  <img height="20" src="./icons/git.png">
-  <img height="20" src="./icons/docker.png">
-  <img height="20" src="./icons/nginx.png">
-  <img height="20" src="./icons/jenkins.png">
-  <img height="20" src="./icons/apache-kafka.png">
-  <img height="20" src="./icons/mongodb.png">
-  <img height="20" src="./icons/postgresql.png">
-  <img height="20" src="./icons/mysql.png">
-  <br />
-  <img height="20" src="./icons/vscode.png">
-  <img height="20" src="./icons/github.png">
-  <img height="20" src="./icons/terminal.png">
-</span>
-
-<br />
-<br />
-
-<a href="https://github.com/andrechristikan">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrechristikan&show_icons=true&hide_border=true" />
-</a>
-
-⭐️ From [andrechristikan](https://github.com/andrechristikan)
+[author-linkedin]: https://linkedin.com/in/andrechristikan
+[author-instagram]: https://www.instagram.com/___ac.k
+[author-email]: mailto:ack@baibay.id
+[author-github]: https://github.com/andrechristikan
 
