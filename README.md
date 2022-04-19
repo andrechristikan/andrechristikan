@@ -8,44 +8,53 @@
 
 ```typescript
 const andre = {
-    fullName: 'Andre Christi Kan',
+    fullName: "Andre Christi Kan",
     pronouns: "he" | "him",
     code: [Typescript, Javascript, Python, Dart],
     framework: [ NestJs, ExpressJs, Jest, Flask, Flutter],
     askMeAbout: [
         "ci/cd", "automation", 
-        "test", "nestjs", "nodejs"
+        "test", "nestjs", "nodejs",
+        "relational database", "non relational database",
+        "optimize code", "web security", 
+        "concurrency", "cloud server", 
+        "backend development", "api", "microservice", 
+        "etc"
     ],
     technologies: {
         backEnd: {
             ts: [
-                "node", "expressjs"
+                "nodejs", "expressjs"
                 "nestjs", "jest",
                 "jwt", "mongoose",
             ],
             db: [
-                "mongodb",
-                "postgresql", "mysql"
+                "mongodb", "postgresql", 
+                "mysql"
             ],
             test: [
-                "unit_test", "e2e_test"
+                "unit_test", "integration_test",
+                "e2e_test"
             ],
         },
         devOps: {
             automation: [
                 "jenkins", "github_action",
-                "docker"
+                "docker", "docker_compose",
+                "docker_swarm"
             ],
             cloud: [
                 "aws", "alibaba_cloud"
             ],
             server: [
-                "nginx", "kafka",
+                "nginx", "kafka", "certbot",
+                "letsencrypt", "ubuntu", "centos",
+                "amazon linux"
             ],
         },
         mobile: {
             flutter: [
-                'widget'
+                "widget"
             ],
         },
         integration: {
@@ -79,4 +88,3 @@ const andre = {
 [author-instagram]: https://www.instagram.com/___ac.k
 [author-email]: mailto:ack@baibay.id
 [author-github]: https://github.com/andrechristikan
-
