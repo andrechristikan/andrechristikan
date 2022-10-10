@@ -25,15 +25,15 @@ const andre = {
         backEnd: {
             ts: [
                 "nodejs", "expressjs"
-                "nestjs", "jest",
-                "jwt", "mongoose",
+                "nestjs"
             ],
             db: [
                 "mongodb", "postgresql", 
-                "mysql"
+                "mysql", "redis", "elasticsearch"
             ],
             test: [
-                "unit_test", "integration_test",
+                "jest", "unit_test", 
+                "integration_test",
                 "e2e_test"
             ],
         },
@@ -41,7 +41,7 @@ const andre = {
             automation: [
                 "jenkins", "github_action",
                 "docker", "docker_compose",
-                "docker_swarm"
+                "docker_swarm", "serverless"
             ],
             cloud: [
                 "aws", "alibaba_cloud"
@@ -56,25 +56,6 @@ const andre = {
             flutter: [
                 "widget"
             ],
-        },
-        integration: {
-            email: [
-                "sendgrid", 
-            ],
-            payment: [
-                "xendit", "instamoney",
-                "nicepay"
-            ],
-            bank: [
-                "bca", "sinar_mas"
-            ],
-            pushNotification: [
-                "onesignal", "firebase"
-            ],
-            p2pRegulation: [
-                "fdc", "pusdafil", 
-                "pefindo", "izidata"
-            ]
         }
     }
 };
